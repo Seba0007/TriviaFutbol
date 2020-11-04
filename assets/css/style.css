@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/soccerField.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.titulo{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(60, 60, 114);
+}
+.mensaje{
+    font-size: 30px;
+    text-align: center;
+    font-weight: lighter;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+.cajaPricipal{
+    height: 30%;
+}
+.start{
+    width: 150px;
+    background-color: blue;
+}
+.respuesta{
+    color: darkred;
+    font: 40px bolder;
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+.pregunta{
+    color: black;
+    font: 40px bolder;
+    text-align: center;
+}
+.tiempo{
+    text-align: center;
+    color: coral;
+}
+#timer{
+    font-size: 70px;
+    color: darkred;
+}
+h3{
+    font-size: 90px;
+    font-weight: bolder;
+    font-style: italic;
+}
+.reset{
+    background-color: orangered;
+    width: 150px;
+
+}
